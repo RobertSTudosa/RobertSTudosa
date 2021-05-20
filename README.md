@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RobertSTudosa
 - 👀 I’m interested in EAS, SAAS  and design 
 - 🌱 I’m currently learning java, spring boot, thymeleaf, hibernate, javascript, mysql
+- 🌱 Also, I am trying to develop my own EAS for my own company/business (recruiting business)
 - 💞️ I’m looking to collaborate on any project regarding EAS and SAAS
 - 📫 How to reach me robert@bpeople.ro
 
